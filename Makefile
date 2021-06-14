@@ -22,5 +22,5 @@ help: #Pour générer automatiquement l'aide ## Display all commands available
 
 git: 
 	git add -A .
-	git commit -m "Auto Commit"
+	git commit -m "Auto Commit 2"
 	git push 
