@@ -1,1 +1,2 @@
-# copyfast
+# copyfastgo
+###TP of GO

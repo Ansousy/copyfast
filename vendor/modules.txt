@@ -1,0 +1,13 @@
+# github.com/inconshreveable/mousetrap v1.0.0
+github.com/inconshreveable/mousetrap
+# github.com/jlaffaye/ftp v0.0.0-20210307004419-5d4190119067
+## explicit
+github.com/jlaffaye/ftp
+# github.com/martinr92/goftp v0.0.0-20171028184356-436f60bd15eb
+## explicit
+# github.com/spf13/cobra v1.1.3
+## explicit
+github.com/spf13/cobra
+# github.com/spf13/pflag v1.0.5
+github.com/spf13/pflag
+# github.com/Devopsengineer75/copyfastgo => C:\Users\aur95\copyfast\copyfastgo

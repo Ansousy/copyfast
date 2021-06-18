@@ -1,7 +1,5 @@
-FROM golang:1.16.5
+From alpine:latest
 
-COPY / /tmp/
+COPY ./build/linux/copyfast /bin/copyfast
 
-WORKDIR /tmp
-
-ENTRYPOINT [ "/bin/sh" ]
+ENTRYPOINT [ "/bin/copyfast" ]
